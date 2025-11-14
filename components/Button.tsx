@@ -8,7 +8,7 @@ type ButtonProps = {
 };
 
 const Button = ({ type, title, icon, variant }: ButtonProps) => {
-  return <button type={type} className={`flexCenter gap-3 rounded-full ${variant}`}>
+  return <button type={type} className={`flexCenter gap-3 rounded-full border ${variant}`}>
             {icon && <Image src={icon} alt={title} width={24} height={24} className="inline mr-2" />}
             <label className="bold-16 ">{title}</label>
         </button>;

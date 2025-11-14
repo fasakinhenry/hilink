@@ -22,14 +22,22 @@ const Navbar = () => {
         ))}
       </ul>
 
-      <div className='lg:flexCenter'>
+      <div className='lg:flex items-center justify-center hidden'>
         <Button
-        type="button"
-        title="Login"
-        icon="/user.svg"
-        variant="btn_dark_green"
+          type='button'
+          title='Login'
+          icon='/user.svg'
+          variant='btn_dark_green'
         />
       </div>
+
+      <Image
+        src='menu.svg'
+        alt='menu'
+        height={32}
+        width={32}
+        className='inline-block cursor-pointer lg:hidden'
+      />
     </nav>
   );
 };

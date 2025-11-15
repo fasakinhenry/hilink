@@ -1,36 +1,108 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <br />
+    <a href="https://travelcamp.vercel.app" target="_blank">
+      <img src="./public/travel-readme-brand-header.png" alt="Project Banner">
+    </a>
+  <br />
+  <br />
 
-## Getting Started
+  <div>
+    <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
 
-First, run the development server:
+  <h2 align="center">Travel Website</h2>
+
+   <div align="center">
+     Built as a Project to learn and showcase my NextJs skills on my<a href="https://fasakinhenry.com" target="_blank"><b>Portfolio</b></a>. Please give it a Star⭐!
+    </div>
+</div>
+
+> Deployed Link: [Link](https://travelcamp.vercel.app)
+> GitHub Repository: [Link](https://github.com/fasakinhenry/hilink)
+
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🔗 [Links](#links)
+6. 🚀 [More](#more)
+
+## <a name="introduction">🤖 Introduction</a>
+
+Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
+
+If you're a recruiter or potential employer, this project serves as a testament to my skills and dedication to web development. Feel free to explore the codebase and see the quality of work I can deliver.
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- Next.js
+- Tailwind CSS
+
+## <a name="features">🔋 Features</a>
+
+👉 **Appealing Hero Section**: Visually striking hero section that captures attention and sets the tone for the website
+
+👉 **Camp Exploration Section**: Showcase various camps in a dedicated section, allowing users to explore different options.
+
+👉 **Engaging Travel Guide Section**: A compelling travel guide section with informative content and captivating visuals.
+
+👉 **Feature-Rich Section**: A complex and feature-rich section offering advanced functionalities or in-depth information.
+
+👉 **Call to Action for Mobile Apps**: A call-to-action section encouraging users to explore the mobile app version, complete with download links.
+
+👉 **Footer**: Comprehensive footer section containing site and social media links for easy navigation and connectivity.
+
+and many more, including code architecture and reusability 
+
+## <a name="quick-start">🤸 Quick Start</a>
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/fasakinhenry/hilink.git
+cd hilink
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## <a name="links">🔗 Links</a>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Check out the project [here](https://travelcamp.vercel.app).
+- GitHub Repository: [Link](https://github.com/fasakinhenry/hilink)
 
-## Learn More
+## <a name="more">🚀 More</a>
 
-To learn more about Next.js, take a look at the following resources:
+You can find more exciting projects on my [GitHub](https://github.com/fasakinhenry). Please give them a star⭐ and follow me for more updates!
+</a>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> Made with ❤️ by [Fasakin Henry](https://fasakinhenry.com)

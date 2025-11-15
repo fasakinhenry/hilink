@@ -1,5 +1,5 @@
 const GetApp = () => {
-  return <div>GetApp</div>;
+  return <section>GetApp</section>;
 };
 
 export default GetApp;

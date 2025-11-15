@@ -17,6 +17,7 @@
    <div align="center">
      Built as a Project to learn and showcase my NextJs skills on my <a href="https://fasakinhenry.com" target="_blank"><b>Portfolio</b></a>. Please give it a Star⭐!
     </div>
+    <br />
 </div>
 
 

@@ -3,7 +3,7 @@
 
 /* Tailwind v4 (PostCSS plugin recommended) */
 @import 'tailwindcss';
-@source '../components/**/*.{js,ts,jsx,tsx}';
+@source '../components/*.{js,ts,jsx,tsx}';
 @source '../**/*.{js,ts,jsx,tsx}';
 /* @config "../tailwind.config.ts"; */
 

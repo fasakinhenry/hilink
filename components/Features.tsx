@@ -5,7 +5,7 @@ const Features = () => {
   return (
     <section className='flex-col flex items-center justify-center overflow-hidden bg-feature-bg bg-center bg-no-repeat py-24'>
       <div className='mx-auto max-w-[1440px] px-6 lg:px-20 3xl:px-0 relative w-full flex justify-end'>
-        <div className='flex flex-1 lg-min-h-[900px]'>
+        <div className='flex flex-1 lg:min-h-[900px]'>
           <Image
             src='/phone.png'
             alt='phone'
@@ -23,7 +23,7 @@ const Features = () => {
               height={50}
               className='absolute left-[-5px] -top-7 w-10 lg:w-[50px]'
             />
-            <h2 className='text-[40px] font-bold leading-[120%] lg:text-[64px] lg:gap-20'>
+            <h2 className='text-[40px] font-bold leading-[120%] lg:text-[64px]'>
               Our Features
             </h2>
           </div>
@@ -55,10 +55,10 @@ const FeatureItem = ({ title, icon, description }: FeatureItemProps) => {
       <div className='rounded-full p-4 lg:p-7 bg-green-50'>
         <Image src={icon} alt='map' width={28} height={28} />
       </div>
-      <h2 className='text-[20px] font-bold leading-[120%] lg:text-[52px] capitalize mt-5'>
+      <h2 className='text-[20px] font-bold leading-[120%] lg:text-[32px] capitalize mt-5'>
         {title}
       </h2>
-      <p className='text-[16px] font-normal mt-5 bg-white/80 text-gray-30 lg:mt-5 lg:bg-none'>{description}</p>
+      <p className='text-[16px] font-normal mt-5 bg-white/80 text-gray-30 lg:mt-[30px] lg:bg-none'>{description}</p>
     </li>
   );
 };

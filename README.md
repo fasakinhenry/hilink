@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://travelcamp.vercel.app" target="_blank">
+    <a href="https://hilink-travel.vercel.app" target="_blank">
       <img src="./public/travel-readme-brand-header.png" alt="Project Banner">
     </a>
   <br />
@@ -21,7 +21,7 @@
 </div>
 
 
-> Check the deployed version here: [Link](https://travelcamp.vercel.app)
+> Check the deployed version here: [Link](https://hilink-travel.vercel.app)
 
 > GitHub Repository: [Link](https://github.com/fasakinhenry/hilink)
 
@@ -36,7 +36,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
+Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce my understanding of these [technologies](#tech-stack).
 
 If you're a recruiter or potential employer, this project serves as a testament to my skills and dedication to web development. Feel free to explore the codebase and see the quality of work I can deliver.
 
@@ -98,7 +98,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="links">🔗 Links</a>
 
-- Check out the project [here](https://travelcamp.vercel.app).
+- Check out the project [here](https://hilink-travel.vercel.app).
 - GitHub Repository: [Link](https://github.com/fasakinhenry/hilink)
 
 ## <a name="more">🚀 More</a>

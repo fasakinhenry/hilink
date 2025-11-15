@@ -15,9 +15,10 @@
   <h2 align="center">Travel Website</h2>
 
    <div align="center">
-     Built as a Project to learn and showcase my NextJs skills on my<a href="https://fasakinhenry.com" target="_blank"><b>Portfolio</b></a>. Please give it a Star⭐!
+     Built as a Project to learn and showcase my NextJs skills on my <a href="https://fasakinhenry.com" target="_blank"><b>Portfolio</b></a>. Please give it a Star⭐!
     </div>
 </div>
+
 
 > Check the deployed version here: [Link](https://travelcamp.vercel.app)
 

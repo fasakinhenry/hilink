@@ -19,7 +19,7 @@
     </div>
 </div>
 
-> Deployed Link: [Link](https://travelcamp.vercel.app)
+> Check the deployed version here: [Link](https://travelcamp.vercel.app)
 
 > GitHub Repository: [Link](https://github.com/fasakinhenry/hilink)
 

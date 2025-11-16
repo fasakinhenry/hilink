@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://hilink-travel.vercel.app" target="_blank">
+    <a href="https://hilink-landing.vercel.app" target="_blank">
       <img src="./public/travel-readme-brand-header.png" alt="Project Banner">
     </a>
   <br />
@@ -21,7 +21,7 @@
 </div>
 
 
-> Check the deployed version here: [Link](https://hilink-travel.vercel.app)
+> Check the deployed version here: [Link](https://hilink-landing.vercel.app)
 
 > GitHub Repository: [Link](https://github.com/fasakinhenry/hilink)
 
@@ -98,7 +98,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="links">🔗 Links</a>
 
-- Check out the project [here](https://hilink-travel.vercel.app).
+- Check out the project [here](https://hilink-landing.vercel.app).
 - GitHub Repository: [Link](https://github.com/fasakinhenry/hilink)
 
 ## <a name="more">🚀 More</a>

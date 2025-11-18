@@ -104,7 +104,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ## <a name="more">🚀 More</a>
 
 You can find more exciting projects on my [GitHub](https://github.com/fasakinhenry). Please give them a star⭐ and follow me for more updates!
-</a>
 
 #
 
